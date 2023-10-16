@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>resources/subfavicon.ico</file>
+        <file>resources/favicon.ico</file>
+    </qresource>
+    <qresource prefix="/ui">
+        <file>resources/config.png</file>
+    </qresource>
+</RCC>
