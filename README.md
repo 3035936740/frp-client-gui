@@ -1,5 +1,4 @@
 # frp-gui
-<h3 align="center">Gold Sponsors</h3>
 <!--gold sponsors start-->
 <p align="center">
 <img width="256px" src="https://github.com/3035936740/frp-client-gui/blob/main/frp-gui.png">
